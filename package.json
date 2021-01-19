@@ -1,0 +1,23 @@
+{
+  "name": "com.sleekdeveloper.api.remindme",
+  "version": "1.0.0",
+  "description": "RemindMe Node REST Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zancheema/RemindMe-REST-Api.git"
+  },
+  "keywords": [
+    "Node",
+    "REST"
+  ],
+  "author": "Zain Cheema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zancheema/RemindMe-REST-Api/issues"
+  },
+  "homepage": "https://github.com/zancheema/RemindMe-REST-Api#readme"
+}
